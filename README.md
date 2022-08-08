@@ -1,6 +1,6 @@
 # TiSAT
 
-The official implementation of our work "TiSAT: Time Series Anomaly Transformer". 
+The official implementation of our work "Reward Once, Penalize Once: Rectifying Time Series Anomaly Detection". 
 
 
 Download and extract the files to the root folder from here https://usf.box.com/s/bkpyedbpm40dkwtndy9mi6rhivmw5imp
